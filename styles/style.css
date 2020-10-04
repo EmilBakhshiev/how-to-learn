@@ -98,7 +98,7 @@ z-index: 0;
   margin-top: 0px;
   }
 .two-columns__main-text{
-  width: 80%; 
+  width: 80%;
   min-width: 784px;
   /*border: 1px red solid;*/
 }
@@ -201,8 +201,8 @@ z-index: 2;
   /*border: 1px red solid;*/
 }
 .feynman__image{
-  width: 867px; 
-  height: 637px; 
+  width: 867px;
+  height: 637px;
   position: absolute;
   z-index: 0;
   bottom: 0px;
