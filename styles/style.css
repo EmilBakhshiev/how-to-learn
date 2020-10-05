@@ -69,14 +69,13 @@
   position: absolute;
   top: 64px;
   right: 0px;
-z-index: 0;
+  z-index: 0;
 }
 .header__link{
   text-decoration: none;
   color: #2f80ed;
 }
 .description{
-  margin: 100px 0px;
   padding: 100px 0px;
   /*border: 1px red solid;*/
 }
@@ -122,7 +121,6 @@ span{
   margin-bottom: 0px;      
 }
 .digits{
-  margin: 100px 0px;
   padding: 100px 0px;
   /*border: 1px red solid;*/
   }
@@ -218,7 +216,9 @@ z-index: 2;
   font-weight: normal;
   text-decoration: none;
   color: #2f80ed;
+  z-index: 3;
 }
+
 .kaufman{
   background-color: #1f1f1f;
   /*border: 1px red solid;*/
@@ -320,6 +320,11 @@ font-size: 18px;
 font-weight: normal;
 /*border: 1px red solid;*/
 }
+.footer__list_item_links{
+  color: white;
+  text-decoration: none;
+}
+
 .footer__columns_content_social-list{
 color: white;
 list-style-type: none;
